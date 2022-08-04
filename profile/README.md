@@ -21,28 +21,3 @@
 ### ✏️ For all your wishes
 please write to me:
 >ivanignatenko28@gmail.com
-
-either here:
->https://github.com/ignavan39/ucrm/discussions/categories/ideas
-
-### 🛠 How to local start:
-
-##### Local development
-
-Start:
-```bash
-$ docker-compose up --build
-```
-
-##### Debug
-```bash
-$ docker-compose -f docker-compose.debug.yml up --build
-```
-
-###  💻 For Contributions
- 1. take any issue from the list into work, do it with a branch name like feat/ucrm-{issue_number}
-1. create a pull request with a wildcard name 
-[feat] - {issue_number} short description
-1. waiting for code review
-1. ???
-1. PROFIT
