@@ -1,5 +1,4 @@
 # Unnamed CRM
-![example workflow](https://github.com/ignavan39/ucrm/actions/workflows/build.yml/badge.svg)
 
 #### 📌 it is fast and comfortable crm for your business
 
